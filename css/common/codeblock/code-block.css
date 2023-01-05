@@ -29,8 +29,8 @@
 }
 .highlight-container[data-rel] {
   background: var(--second-background-color);
-  border-radius: 14px;
-  box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
+  border-radius: 18px;
+  box-shadow: var(--redefine-box-shadow);
   padding-top: 20px;
   margin-top: 10px;
 }

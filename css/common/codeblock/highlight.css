@@ -29,6 +29,8 @@
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --first-screen-text-color: #fff;
+  --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
+  --redefine-box-shadow-hover: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px, var(--shadow-color-1) 0px 0px 0px 1px inset;
 }
 @media (prefers-color-scheme: light) {
   :root {
@@ -62,6 +64,8 @@
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --first-screen-text-color: #fff;
+    --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
+    --redefine-box-shadow-hover: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px, var(--shadow-color-1) 0px 0px 0px 1px inset;
   }
 }
 @media (prefers-color-scheme: dark) {
@@ -96,6 +100,8 @@
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-text-color: #d1d1b6;
+    --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
+    --redefine-box-shadow-hover: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px, var(--shadow-color-1) 0px 0px 0px 1px inset;
   }
 }
 .light-mode {
@@ -129,6 +135,8 @@
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --first-screen-text-color: #fff;
+  --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
+  --redefine-box-shadow-hover: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px, var(--shadow-color-1) 0px 0px 0px 1px inset;
 }
 .dark-mode {
   --background-color: #202124;
@@ -161,6 +169,8 @@
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-text-color: #d1d1b6;
+  --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
+  --redefine-box-shadow-hover: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px, var(--shadow-color-1) 0px 0px 0px 1px inset;
 }
 :root {
   --code-foreground: #3b4143;
