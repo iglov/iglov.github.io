@@ -6,7 +6,7 @@
     <meta name="keywords" content="Hexo Theme Redefine">
     <meta name="description" content="Hexo Theme Redefine">
     <meta name="author" content="iglov">
-    <link rel="canonical" href="https://iglov.github.io/archives/2018" />
+    <link rel="canonical" href="https://iglov.github.io/2023/01/11/ospf/" />
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-redefine.png">
     <link rel="icon" type="image/png" href="/images/logo.png" sizes="192x192">
     <link rel="apple-touch-icon" sizes="180x180" href="/images/logo.png">
@@ -14,7 +14,7 @@
     
     <title>
         
-            Archive: 2018 |
+            OSPF |
         
         Avalon
     </title>
@@ -109,7 +109,7 @@
                         
                             <li class="menu-item">
                                 <!-- Menu -->
-                                <a class="active" 
+                                <a class="" 
                                     href="/archives"  >
                                     
                                         
@@ -172,7 +172,7 @@
             
                 
                     <li class="drawer-menu-item flex-center">
-                        <a class="active" 
+                        <a class="" 
                         href="/archives"  >
                              
                                 
@@ -217,55 +217,125 @@
 
                 
                     <div class="fade-in-down-animation">
-    <div class="archive-container ">
-        
-<div class="archive-list-container">
-    
-        <section class="archive-item">
-            <div class="archive-item-header">
-                <span class="archive-year">2023</span>
-                <span class="archive-year-post-count">[2]</span>
+    <div class="post-page-container">
+        <div class="article-content-container">
+            <div class="article-title">
+                <span class="title-hover-animation"><h1 style="font-size:2rem; font-weight: bold; margin: 10px 0;">OSPF</h1></span>
             </div>
-            <ul class="article-list">
+
+            
+                <div class="article-header">
+                    <div class="avatar">
+                        <img src="/images/avatar.jpg">
+                    </div>
+                    <div class="info">
+                        <div class="author">
+                            <span class="name">iglov</span>
+                            
+                                <span class="author-label">Lv1</span>
+                            
+                        </div>
+                        <div class="meta-info">
+                            <div class="article-meta-info">
+    <span class="article-date article-meta-item">
+        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
+        <span class="pc">2023-01-11 08:55:00</span>
+        <span class="mobile">2023-01-11 08:55</span>
+    </span>
+    
+    
+        <span class="article-tags article-meta-item">
+            <i class="fa-regular fa-tags"></i>&nbsp;
+            <ul>
                 
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2023/01/11/ospf/"
-                        >OSPF</a>
-                        <span class="article-date">01-11</span>
+                    <li>
+                        <a href="/tags/ai/">ai</a>&nbsp;
                     </li>
                 
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2023/01/10/dns/"
-                        >DNS</a>
-                        <span class="article-date">01-10</span>
+                    <li>
+                        | <a href="/tags/ospf/">ospf</a>&nbsp;
                     </li>
                 
             </ul>
-        </section>
+        </span>
     
-        <section class="archive-item">
-            <div class="archive-item-header">
-                <span class="archive-year">2018</span>
-                <span class="archive-year-post-count">[1]</span>
-            </div>
-            <ul class="article-list">
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2018/05/24/hello-world/"
-                        >Hello World</a>
-                        <span class="article-date">05-24</span>
-                    </li>
-                
-            </ul>
-        </section>
+
+    
+    
+    
     
 </div>
 
+                        </div>
+                    </div>
+                </div>
+            
+
+            <div class="article-content markdown-body">
+                <h1 id="OSPF-An-Overview"><a href="#OSPF-An-Overview" class="headerlink" title="OSPF: An Overview"></a>OSPF: An Overview</h1><p><em>History</em><br>OSPF (Open Shortest Path First) is a routing protocol that was first developed for use in Internet Protocol (IP) networks in 1989. It was developed as a replacement for the Routing Information Protocol (RIP), which had a number of limitations, such as the fact that it could only handle a limited number of routers and a limited size of routing tables. OSPF was designed to overcome these limitations and to provide faster and more efficient routing within an autonomous system (AS).</p>
+<p><em>Description</em><br>OSPF is a link state routing (LSR) protocol, which means that it operates by maintaining a database of the state of the links (i.e., the connections between routers) in the network. This database is used to calculate the shortest path to a destination. OSPF uses a hierarchical design, in which the network is divided into areas. Each area runs its own instance of the OSPF protocol and has its own link state database. This allows for faster convergence and less routing overhead.</p>
+<p><em>Examples</em><br><strong>Example 1:</strong><br>Imagine a network with 4 routers: A, B, C, and D. Router A is connected to routers B and C, and router C is connected to router D. If a packet needs to be sent from router A to D, OSPF will use the shortest path, which in this case would be A-C-D.</p>
+<p><strong>Example 2:</strong><br>Now imagine that a new router, E, is added to the network, and it is connected to routers B and D. If a packet needs to be sent from router A to E, OSPF will now use the shortest path, which would be A-B-E. This change in the path will be quickly calculated and propagated throughout the network due to the OSPF’s fast convergence.</p>
+<p><strong>Example 3:</strong><br>Consider a network with 6 routers: A, B, C, D, E, and F. Router A is connected to routers B and C, Router B is connected to D, E, and F. OSPF will calculate the shortest path from A to D as A-B-D, and from A to E as A-B-E.</p>
+<p><strong>Example 4:</strong><br>Imagine a network with 3 routers: X, Y, and Z. Router X is connected to Router Y and Router Z. Now if there is a failure in the link between Router X and Router Y, OSPF will quickly recalculate the new shortest path and will propagate it throughout the network.</p>
+<p>In conclusion, OSPF is a powerful and efficient routing protocol that is widely used in IP networks. Its hierarchical design and link state routing algorithm make it well-suited for large and complex networks. It is a proven technology that is here to stay.</p>
+
+            </div>
+
+            
+
+            
+                <ul class="post-tags-box">
+                    
+                        <li class="tag-item">
+                            <a href="/tags/ai/">#ai</a>&nbsp;
+                        </li>
+                    
+                        <li class="tag-item">
+                            <a href="/tags/ospf/">#ospf</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            
+
+            
+                <div class="article-nav">
+                    
+                    
+                        <div class="article-next">
+                            <a class="next"
+                            rel="next"
+                            href="/2023/01/10/dns/"
+                            >
+                                <span class="title flex-center">
+                                    <span class="post-nav-title-item">DNS</span>
+                                    <span class="post-nav-item">Next posts</span>
+                                </span>
+                                <span class="right arrow-icon flex-center">
+                                    <i class="fa-solid fa-chevron-right"></i>
+                                </span>
+                            </a>
+                        </div>
+                    
+                </div>
+            
+
+            
+        </div>
+
+        
+            <div class="toc-content-container">
+                <div class="post-toc-wrap">
+    <div class="post-toc">
+        <div style="font-size: 1.3rem;margin-top: 0; margin-bottom: 0.8rem; transition-duration: 0.1s;"><i class="fa-solid fa-list"></i> <strong>Contents</strong></div>
+        <ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#OSPF-An-Overview"><span class="nav-text">OSPF: An Overview</span></a></li></ol>
     </div>
 </div>
+            </div>
+        
+    </div>
+</div>
+
 
                 
 
@@ -318,6 +388,23 @@
         </div>
     </div>
 
+    
+        <div class="post-tools">
+            <div class="post-tools-container">
+    <ul class="tools-list">
+        <!-- TOC aside toggle -->
+        
+            <li class="tools-item page-aside-toggle">
+                <i class="fa-regular fa-outdent"></i>
+            </li>
+        
+
+        <!-- go comment -->
+        
+    </ul>
+</div>
+
+        </div>
     
 
     <div class="right-bottom-side-tools">
@@ -403,6 +490,14 @@
 
 
 <div class="post-scripts pjax">
+    
+        
+<script src="/js/toc-toggle.js"></script>
+
+<script src="/js/libs/anime.min.js"></script>
+
+<script src="/js/toc.js"></script>
+
     
 </div>
 
