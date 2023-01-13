@@ -6,7 +6,7 @@
     <meta name="keywords" content="Hexo Theme Redefine">
     <meta name="description" content="Hexo Theme Redefine">
     <meta name="author" content="iglov">
-    <link rel="canonical" href="https://iglov.github.io/archives/2018" />
+    <link rel="canonical" href="https://iglov.github.io/2023/01/10/dns/" />
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-redefine.png">
     <link rel="icon" type="image/png" href="/images/logo.png" sizes="192x192">
     <link rel="apple-touch-icon" sizes="180x180" href="/images/logo.png">
@@ -14,7 +14,7 @@
     
     <title>
         
-            Archive: 2018 |
+            DNS |
         
         Avalon
     </title>
@@ -109,7 +109,7 @@
                         
                             <li class="menu-item">
                                 <!-- Menu -->
-                                <a class="active" 
+                                <a class="" 
                                     href="/archives"  >
                                     
                                         
@@ -172,7 +172,7 @@
             
                 
                     <li class="drawer-menu-item flex-center">
-                        <a class="active" 
+                        <a class="" 
                         href="/archives"  >
                              
                                 
@@ -217,48 +217,147 @@
 
                 
                     <div class="fade-in-down-animation">
-    <div class="archive-container ">
-        
-<div class="archive-list-container">
-    
-        <section class="archive-item">
-            <div class="archive-item-header">
-                <span class="archive-year">2023</span>
-                <span class="archive-year-post-count">[1]</span>
+    <div class="post-page-container">
+        <div class="article-content-container">
+            <div class="article-title">
+                <span class="title-hover-animation"><h1 style="font-size:2rem; font-weight: bold; margin: 10px 0;">DNS</h1></span>
             </div>
-            <ul class="article-list">
+
+            
+                <div class="article-header">
+                    <div class="avatar">
+                        <img src="/images/avatar.jpg">
+                    </div>
+                    <div class="info">
+                        <div class="author">
+                            <span class="name">iglov</span>
+                            
+                                <span class="author-label">Lv1</span>
+                            
+                        </div>
+                        <div class="meta-info">
+                            <div class="article-meta-info">
+    <span class="article-date article-meta-item">
+        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
+        <span class="pc">2023-01-10 08:55:00</span>
+        <span class="mobile">2023-01-10 08:55</span>
+    </span>
+    
+    
+        <span class="article-tags article-meta-item">
+            <i class="fa-regular fa-tags"></i>&nbsp;
+            <ul>
                 
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2023/01/10/dns/"
-                        >DNS</a>
-                        <span class="article-date">01-10</span>
+                    <li>
+                        <a href="/tags/dns/">dns</a>&nbsp;
+                    </li>
+                
+                    <li>
+                        | <a href="/tags/ai/">ai</a>&nbsp;
                     </li>
                 
             </ul>
-        </section>
+        </span>
     
-        <section class="archive-item">
-            <div class="archive-item-header">
-                <span class="archive-year">2018</span>
-                <span class="archive-year-post-count">[1]</span>
-            </div>
-            <ul class="article-list">
-                
-                    <li class="article-item">
-                        <a class="article-title"
-                           href="/2018/05/24/hello-world/"
-                        >Hello World</a>
-                        <span class="article-date">05-24</span>
-                    </li>
-                
-            </ul>
-        </section>
+
+    
+    
+    
     
 </div>
 
+                        </div>
+                    </div>
+                </div>
+            
+
+            <div class="article-content markdown-body">
+                <h1 id="DNS"><a href="#DNS" class="headerlink" title="DNS"></a>DNS</h1><p>DNS, or the Domain Name System, is a fundamental part of the internet that allows us to use easily remembered domain names (like <a class="link"   target="_blank" rel="noopener" href="http://www.example.com/" >www.example.com <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>) instead of IP addresses (like 192.0.2.1). DNS was first proposed in 1983, and officially standardized in 1988. It was designed to replace the aging Host Name Protocol (HNP), which was used to map hostnames to IP addresses on ARPANET, the precursor to the internet.</p>
+<h2 id="DNS-types"><a href="#DNS-types" class="headerlink" title="DNS types"></a>DNS types</h2><p>There are several types of DNS records, each with a specific purpose:</p>
+<ul>
+<li><strong>A (Address) record:</strong> This is the most basic type of DNS record, and maps a domain name to an IPv4 address. For example, the A record for <a class="link"   target="_blank" rel="noopener" href="http://www.example.com/" >www.example.com <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> might map it to 192.0.2.1.</li>
+<li><strong>AAAA (IPv6 Address) record:</strong> Similar to an A record, but for mapping a domain name to an IPv6 address.</li>
+<li><strong>CNAME (Canonical Name) record:</strong> This type of record is used to create an alias for another domain name. For example, you could use a CNAME to map the domain name “www” to “example.com”, so that both “<a class="link"   target="_blank" rel="noopener" href="http://www.example.com/" >www.example.com <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>“ and “example.com” point to the same website.</li>
+<li><strong>MX (Mail Exchange) record:</strong> This type of record is used to specify the mail server responsible for handling email for a domain. For example, the MX record for “example.com” might point to “mail.example.com”.</li>
+<li><strong>NS (Name Server) record:</strong> This type of record is used to specify the authoritative name servers for a domain.</li>
+<li><strong>TXT (Text) record:</strong> This type of record is used to store arbitrary text data, such as SPF or DKIM records.</li>
+<li><strong>SOA (Start of Authority) record:</strong> This type of record is used to specify the primary DNS server for a domain, as well as several other parameters that define the DNS zone.</li>
+<li><strong>SRV (Service) record:</strong> This type of record is used to specify the hostname and port of services like XMPP or LDAP.</li>
+<li><strong>PTR (Pointer) record:</strong> This type of record is used to map an IP address to a domain name. This is used primarily for reverse DNS lookups.</li>
+</ul>
+<h3 id="Examples"><a href="#Examples" class="headerlink" title="Examples"></a>Examples</h3><ul>
+<li>A record example:<br><code>www.example.com A 192.0.2.1</code></li>
+<li>CNAME record example:<br><code>www.example.com CNAME example.com</code></li>
+<li>MX record example:<br><code>example.com MX mail.example.com</code></li>
+<li>MX record example:<br><code>example.com MX mail.example.com</code></li>
+<li>TXT record example:<br><code>example.com TXT &quot;v=spf1 a mx -all&quot;</code></li>
+<li>PTR record example:<br><code>192.0.2.1 PTR example.com</code></li>
+</ul>
+<h2 id="DNS-security"><a href="#DNS-security" class="headerlink" title="DNS security"></a>DNS security</h2><p>DNSSEC (Domain Name System Security Extensions) is an extension to the DNS protocol that adds security by allowing DNS records to be digitally signed, providing authenticity and integrity for DNS data. This helps prevent attacks such as DNS cache poisoning, where an attacker can redirect traffic intended for a legitimate website to a malicious one.</p>
+<p>TSIG (Transaction SIGnature) is a method of authenticating DNS updates and requests using a shared secret key. It can be used to prevent unauthorized updates to DNS records, and to authenticate responses to DNS queries.</p>
+<p>DANE (DNS-Based Authentication of Named Entities) is a method of authenticating the certificate of a website using DNS records. It allows website operators to publish their SSL&#x2F;TLS certificate in the DNS, which can be used by clients to verify the certificate without having to rely on a centralized certificate authority.</p>
+<p>Examples:</p>
+<ul>
+<li>DNSSEC record example:<br><code>example.com DNSKEY (256 3 8 AwEAAb/f+....)</code></li>
+<li>DANE record example:<br><code>_443._tcp.example.com TLSA 3 0 1 (8f2c5d1a5c5e5f5d5b5a5c5e5f5d5b5a5c5e5f5d5b5a5c5e5f5d5b5a)</code><br>DNSSEC, TSIG, and DANE are all important tools for securing the DNS infrastructure, and can help protect against various types of attacks. By using these technologies, organizations can ensure that their DNS data is authentic and that communication with their websites is secure. DNS is a crucial part of the internet infrastructure and it’s important to understand how it works and the different types of records that can be used.</li>
+</ul>
+
+            </div>
+
+            
+
+            
+                <ul class="post-tags-box">
+                    
+                        <li class="tag-item">
+                            <a href="/tags/dns/">#dns</a>&nbsp;
+                        </li>
+                    
+                        <li class="tag-item">
+                            <a href="/tags/ai/">#ai</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            
+
+            
+                <div class="article-nav">
+                    
+                    
+                        <div class="article-next">
+                            <a class="next"
+                            rel="next"
+                            href="/2018/05/24/hello-world/"
+                            >
+                                <span class="title flex-center">
+                                    <span class="post-nav-title-item">Hello World</span>
+                                    <span class="post-nav-item">Next posts</span>
+                                </span>
+                                <span class="right arrow-icon flex-center">
+                                    <i class="fa-solid fa-chevron-right"></i>
+                                </span>
+                            </a>
+                        </div>
+                    
+                </div>
+            
+
+            
+        </div>
+
+        
+            <div class="toc-content-container">
+                <div class="post-toc-wrap">
+    <div class="post-toc">
+        <div style="font-size: 1.3rem;margin-top: 0; margin-bottom: 0.8rem; transition-duration: 0.1s;"><i class="fa-solid fa-list"></i> <strong>Contents</strong></div>
+        <ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#DNS"><span class="nav-text">DNS</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#DNS-types"><span class="nav-text">DNS types</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Examples"><span class="nav-text">Examples</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#DNS-security"><span class="nav-text">DNS security</span></a></li></ol></li></ol>
     </div>
 </div>
+            </div>
+        
+    </div>
+</div>
+
 
                 
 
@@ -311,6 +410,23 @@
         </div>
     </div>
 
+    
+        <div class="post-tools">
+            <div class="post-tools-container">
+    <ul class="tools-list">
+        <!-- TOC aside toggle -->
+        
+            <li class="tools-item page-aside-toggle">
+                <i class="fa-regular fa-outdent"></i>
+            </li>
+        
+
+        <!-- go comment -->
+        
+    </ul>
+</div>
+
+        </div>
     
 
     <div class="right-bottom-side-tools">
@@ -396,6 +512,14 @@
 
 
 <div class="post-scripts pjax">
+    
+        
+<script src="/js/toc-toggle.js"></script>
+
+<script src="/js/libs/anime.min.js"></script>
+
+<script src="/js/toc.js"></script>
+
     
 </div>
 
