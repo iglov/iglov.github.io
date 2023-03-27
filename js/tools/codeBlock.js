@@ -1,4 +1,4 @@
-REDEFINE.initCopyCode = () => {
+Global.initCopyCode = () => {
   HTMLElement.prototype.wrap = function (wrapper) {
     this.parentNode.insertBefore(wrapper, this);
     this.parentNode.removeChild(this);
@@ -21,12 +21,12 @@ REDEFINE.initCopyCode = () => {
       navigator.clipboard.writeText(code);
 
       // Display 'copied' icon
-      button.querySelector('i').className = 'fa-regular fa-check';
+      copyButton.querySelector('i').className = 'fa-regular fa-check';
 
       // Reset icon after a while
       setTimeout(() => {
-        button.querySelector('i').className = 'fa-regular fa-copy';
-      }, 300);
+        copyButton.querySelector('i').className = 'fa-regular fa-copy';
+      }, 1000);
     });
     foldButton.addEventListener('click', () => {
       container.classList.toggle('folded');
