@@ -129,7 +129,7 @@
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -137,7 +137,7 @@
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -175,7 +175,7 @@
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -183,7 +183,7 @@
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -222,7 +222,7 @@
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -230,7 +230,7 @@
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -268,7 +268,7 @@
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -276,7 +276,7 @@
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -313,7 +313,7 @@
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -321,7 +321,7 @@
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -358,7 +358,7 @@
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -366,7 +366,7 @@
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -404,7 +404,7 @@
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -412,7 +412,7 @@
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -451,7 +451,7 @@
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -459,7 +459,7 @@
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -497,7 +497,7 @@
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -505,7 +505,7 @@
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -542,7 +542,7 @@
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -550,7 +550,7 @@
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -1101,7 +1101,7 @@ button {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -1109,7 +1109,7 @@ button {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1147,7 +1147,7 @@ button {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -1155,7 +1155,7 @@ button {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1194,7 +1194,7 @@ button {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -1202,7 +1202,7 @@ button {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -1240,7 +1240,7 @@ button {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -1248,7 +1248,7 @@ button {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1285,7 +1285,7 @@ button {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -1293,7 +1293,7 @@ button {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -1755,7 +1755,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -1763,7 +1763,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1801,7 +1801,7 @@ pre .deletion {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -1809,7 +1809,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1848,7 +1848,7 @@ pre .deletion {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -1856,7 +1856,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -1894,7 +1894,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -1902,7 +1902,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1939,7 +1939,7 @@ pre .deletion {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -1947,7 +1947,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -2098,7 +2098,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -2106,7 +2106,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2144,7 +2144,7 @@ pre .deletion {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -2152,7 +2152,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2191,7 +2191,7 @@ pre .deletion {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -2199,7 +2199,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -2237,7 +2237,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -2245,7 +2245,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2282,7 +2282,7 @@ pre .deletion {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -2290,7 +2290,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -2506,7 +2506,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -2514,7 +2514,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2552,7 +2552,7 @@ pre .deletion {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -2560,7 +2560,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2599,7 +2599,7 @@ pre .deletion {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -2607,7 +2607,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -2645,7 +2645,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -2653,7 +2653,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2690,7 +2690,7 @@ pre .deletion {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -2698,7 +2698,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -3055,7 +3055,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -3063,7 +3063,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -3101,7 +3101,7 @@ pre .deletion {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -3109,7 +3109,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -3148,7 +3148,7 @@ pre .deletion {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -3156,7 +3156,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -3194,7 +3194,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -3202,7 +3202,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -3239,7 +3239,7 @@ pre .deletion {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -3247,7 +3247,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -3790,7 +3790,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -3798,7 +3798,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -3836,7 +3836,7 @@ pre .deletion {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -3844,7 +3844,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -3883,7 +3883,7 @@ pre .deletion {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -3891,7 +3891,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -3929,7 +3929,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -3937,7 +3937,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -3974,7 +3974,7 @@ pre .deletion {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -3982,7 +3982,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -4106,7 +4106,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -4114,7 +4114,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -4152,7 +4152,7 @@ pre .deletion {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -4160,7 +4160,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -4199,7 +4199,7 @@ pre .deletion {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -4207,7 +4207,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -4245,7 +4245,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -4253,7 +4253,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -4290,7 +4290,7 @@ pre .deletion {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -4298,7 +4298,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -4336,7 +4336,7 @@ pre .deletion {
   min-height: 100px;
   font-size: 1rem;
   color: var(--third-text-color);
-  background-color: rgba(163,31,52,0.15);
+  background-color: rgba(0,80,128,0.15);
   border-radius: 0 !important;
   padding: 0;
   border-radius: 18px;
@@ -4667,7 +4667,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -4675,7 +4675,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -4713,7 +4713,7 @@ pre .deletion {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -4721,7 +4721,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -4760,7 +4760,7 @@ pre .deletion {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -4768,7 +4768,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -4806,7 +4806,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -4814,7 +4814,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -4851,7 +4851,7 @@ pre .deletion {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -4859,7 +4859,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5132,7 +5132,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -5140,7 +5140,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5178,7 +5178,7 @@ pre .deletion {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -5186,7 +5186,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5225,7 +5225,7 @@ pre .deletion {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -5233,7 +5233,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5271,7 +5271,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -5279,7 +5279,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5316,7 +5316,7 @@ pre .deletion {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -5324,7 +5324,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5519,7 +5519,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -5527,7 +5527,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5565,7 +5565,7 @@ pre .deletion {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -5573,7 +5573,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5612,7 +5612,7 @@ pre .deletion {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -5620,7 +5620,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5658,7 +5658,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -5666,7 +5666,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5703,7 +5703,7 @@ pre .deletion {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -5711,7 +5711,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5854,7 +5854,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -5862,7 +5862,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5900,7 +5900,7 @@ pre .deletion {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -5908,7 +5908,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5947,7 +5947,7 @@ pre .deletion {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -5955,7 +5955,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5993,7 +5993,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -6001,7 +6001,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6038,7 +6038,7 @@ pre .deletion {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -6046,7 +6046,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -6279,7 +6279,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -6287,7 +6287,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6325,7 +6325,7 @@ pre .deletion {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -6333,7 +6333,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6372,7 +6372,7 @@ pre .deletion {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -6380,7 +6380,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -6418,7 +6418,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -6426,7 +6426,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6463,7 +6463,7 @@ pre .deletion {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -6471,7 +6471,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -6984,7 +6984,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -6992,7 +6992,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7030,7 +7030,7 @@ pre .deletion {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -7038,7 +7038,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7077,7 +7077,7 @@ pre .deletion {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -7085,7 +7085,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -7123,7 +7123,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -7131,7 +7131,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7168,7 +7168,7 @@ pre .deletion {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -7176,7 +7176,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -7267,7 +7267,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -7275,7 +7275,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7313,7 +7313,7 @@ pre .deletion {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -7321,7 +7321,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7360,7 +7360,7 @@ pre .deletion {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -7368,7 +7368,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -7406,7 +7406,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -7414,7 +7414,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7451,7 +7451,7 @@ pre .deletion {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -7459,7 +7459,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -7679,7 +7679,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -7687,7 +7687,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7725,7 +7725,7 @@ pre .deletion {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -7733,7 +7733,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7772,7 +7772,7 @@ pre .deletion {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #a31f34;
+    --primary-color: #005080;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -7780,7 +7780,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #be243c;
+    --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -7818,7 +7818,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -7826,7 +7826,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7863,7 +7863,7 @@ pre .deletion {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #a31f34;
+  --primary-color: #005080;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -7871,7 +7871,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #be243c;
+  --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
