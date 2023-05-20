@@ -1,6 +1,9 @@
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-40: rgba(255,255,255,0.4);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -11,7 +14,7 @@
   --fourth-text-color: #eaeced;
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
-  --border-color: #b3b3b3;
+  --border-color: rgba(0,0,0,0.08);
   --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
@@ -23,7 +26,7 @@
   --copyright-info-color: #c03;
   --avatar-background-color: #06c;
   --pjax-progress-bar-color: linear-gradient(45deg, #f10006, #ef5b00, #e59c01, #19ca05, #00cab5, #0264c8, #c303c3);
-  --archive-timeline-last-child-color: linear-gradient(to bottom, rgba(0,0,0,0.3) 60%, rgba(0,0,0,0) 100%) 1 100%;
+  --archive-timeline-last-child-color: linear-gradient(to bottom, #e8e8e8 60%, rgba(0,0,0,0) 100%) 1 100%;
   --note-blue-title-bg: #d6f7fb;
   --note-red-title-bg: #fde9e9;
   --note-cyan-title-bg: #e9fdf9;
@@ -47,6 +50,9 @@
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-40: rgba(255,255,255,0.4);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -57,7 +63,7 @@
     --fourth-text-color: #eaeced;
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
-    --border-color: #b3b3b3;
+    --border-color: rgba(0,0,0,0.08);
     --selection-color: #0068a6;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
@@ -69,7 +75,7 @@
     --copyright-info-color: #c03;
     --avatar-background-color: #06c;
     --pjax-progress-bar-color: linear-gradient(45deg, #f10006, #ef5b00, #e59c01, #19ca05, #00cab5, #0264c8, #c303c3);
-    --archive-timeline-last-child-color: linear-gradient(to bottom, rgba(0,0,0,0.3) 60%, rgba(0,0,0,0) 100%) 1 100%;
+    --archive-timeline-last-child-color: linear-gradient(to bottom, #e8e8e8 60%, rgba(0,0,0,0) 100%) 1 100%;
     --note-blue-title-bg: #d6f7fb;
     --note-red-title-bg: #fde9e9;
     --note-cyan-title-bg: #e9fdf9;
@@ -94,6 +100,9 @@
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-40: rgba(32,33,36,0.4);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -104,7 +113,7 @@
     --fourth-text-color: #242429;
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
-    --border-color: #4a4c53;
+    --border-color: rgba(255,255,255,0.08);
     --selection-color: #0068a6;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
@@ -116,7 +125,7 @@
     --copyright-info-color: #a30029;
     --avatar-background-color: #005cb8;
     --pjax-progress-bar-color: linear-gradient(45deg, #ea404a, #ea722f, #e9a71f, #67e559, #18ecec, #1b85f1, #ee1dee);
-    --archive-timeline-last-child-color: linear-gradient(to bottom, rgba(180,180,180,0.3) 60%, rgba(255,255,255,0) 100%) 1 100%;
+    --archive-timeline-last-child-color: linear-gradient(to bottom, #323232 60%, rgba(255,255,255,0) 100%) 1 100%;
     --note-blue-title-bg: #1e3e46;
     --note-red-title-bg: #4e1e1e;
     --note-cyan-title-bg: #1e4e4e;
@@ -140,6 +149,9 @@
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-40: rgba(255,255,255,0.4);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -150,7 +162,7 @@
   --fourth-text-color: #eaeced;
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
-  --border-color: #b3b3b3;
+  --border-color: rgba(0,0,0,0.08);
   --selection-color: #0068a6;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
@@ -162,7 +174,7 @@
   --copyright-info-color: #c03;
   --avatar-background-color: #06c;
   --pjax-progress-bar-color: linear-gradient(45deg, #f10006, #ef5b00, #e59c01, #19ca05, #00cab5, #0264c8, #c303c3);
-  --archive-timeline-last-child-color: linear-gradient(to bottom, rgba(0,0,0,0.3) 60%, rgba(0,0,0,0) 100%) 1 100%;
+  --archive-timeline-last-child-color: linear-gradient(to bottom, #e8e8e8 60%, rgba(0,0,0,0) 100%) 1 100%;
   --note-blue-title-bg: #d6f7fb;
   --note-red-title-bg: #fde9e9;
   --note-cyan-title-bg: #e9fdf9;
@@ -185,6 +197,9 @@
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-40: rgba(32,33,36,0.4);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -195,7 +210,7 @@
   --fourth-text-color: #242429;
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
-  --border-color: #4a4c53;
+  --border-color: rgba(255,255,255,0.08);
   --selection-color: #0068a6;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
@@ -207,7 +222,7 @@
   --copyright-info-color: #a30029;
   --avatar-background-color: #005cb8;
   --pjax-progress-bar-color: linear-gradient(45deg, #ea404a, #ea722f, #e9a71f, #67e559, #18ecec, #1b85f1, #ee1dee);
-  --archive-timeline-last-child-color: linear-gradient(to bottom, rgba(180,180,180,0.3) 60%, rgba(255,255,255,0) 100%) 1 100%;
+  --archive-timeline-last-child-color: linear-gradient(to bottom, #323232 60%, rgba(255,255,255,0) 100%) 1 100%;
   --note-blue-title-bg: #1e3e46;
   --note-red-title-bg: #4e1e1e;
   --note-cyan-title-bg: #1e4e4e;
@@ -463,21 +478,67 @@ button {
   text-align: center;
   cursor: pointer;
   white-space: nowrap;
-  border-radius: 9px;
   padding: 8px 16px;
+  background-color: var(--second-background-color) !important;
+  border-radius: 14px !important;
+  padding: 12px 16px !important;
+  text-decoration: none !important;
+  padding: 0;
+  border-radius: 18px;
+  box-sizing: border-box;
   background: var(--background-color);
+  margin-bottom: 1rem;
+  box-shadow: var(--redefine-box-shadow);
+  box-shadow: var(--redefine-box-shadow-flat) !important;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
   box-shadow: var(--redefine-box-shadow);
   transition-property: color, background, box-shadow, border-color, transform;
   transition-delay: 0s, 0s, 0s, 0s, 0s;
   transition-duration: 0.2s, 0.2s, 0.2s, 0.2s, 0.2s;
   transition-timing-function: ease, ease, ease, ease, linear;
 }
+@media (max-width: 780px) {
+  .btn {
+    margin-bottom: 0.8rem;
+  }
+}
+@media (max-width: 500px) {
+  .btn {
+    margin-bottom: 0.6rem;
+  }
+}
 .btn:hover {
   box-shadow: var(--redefine-box-shadow-hover);
 }
+@media (max-width: 780px) {
+  .btn {
+    padding: 0;
+    border-radius: 14.4px;
+  }
+}
+@media (max-width: 500px) {
+  .btn {
+    padding: 0;
+    border-radius: 10.799999999999999px;
+  }
+}
 .btn:hover {
-  color: var(--background-color);
-  background: var(--primary-color);
+  box-shadow: var(--redefine-box-shadow-hover);
+}
+.btn:hover,
+.btn:focus {
+  color: var(--primary-color);
+  background-color: var(--background-color) !important;
+  box-shadow: var(--redefine-box-shadow) !important;
+}
+.btn:active {
+  box-shadow: var(--redefine-box-shadow-flat) !important;
+  transform: scale(0.95);
+  transition: transform 0.1s ease;
+  background-color: var(--third-background-color) !important;
 }
 .flex-center {
   display: flex;
