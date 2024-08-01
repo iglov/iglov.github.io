@@ -12,11 +12,11 @@ info:
 # IMAGE CONFIGURATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 defaults:
   # Favicon
-  favicon: /images/logo.svg
+  favicon: /images/logo2.ico
   # Site logo
-  logo: 
+  logo: /images/logo2.png
   # Site avatar
-  avatar: /images/avatar.svg
+  avatar: /images/avatar.jpg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -25,7 +25,7 @@ colors:
   #Primary color
   primary: "#005080"
   # Secondary color (beta)
-  secondary: 
+  secondary:
 # COLORS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -95,7 +95,7 @@ home_banner:
   # Whether to enable home banner
   enable: true
   # Home banner image
-  image: 
+  image:
     light: /images/wallhaven-wqery6-light.webp # light mode
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
@@ -132,7 +132,7 @@ home_banner:
   # Home banner social links
   social_links:
     # Whether to enable
-    enable: false
+    enable: true
     # Social links
     links:
       github:  https://github.com/iglov # your GitHub URL
@@ -158,25 +158,23 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
-      Archives: 
-        path: /archives
-        icon: fa-regular fa-archive # can be empty
-      About:
-        icon: fa-regular fa-user
-        path: /about
-    # Archives: 
-    #   path: /archives 
-    #   icon: fa-regular fa-archive # can be empty
+    Archives: 
+      path: /archives
+      icon: fa-regular fa-archive # can be empty
+    About:
+      path: /about
+      icon: fa-regular fa-user
+
     # Status: 
     #   path: https://status.evanluo.top/
     #   icon: fa-regular fa-chart-bar
-    # About: 
-    #   icon: fa-regular fa-user
-    #   submenus:
-    #     Me: /about
-    #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
-    #     Blog: https://ohevan.com
-    #     Friends: /friends
+#      About: 
+#        icon: fa-regular fa-user
+#        submenus:
+#          Me: /about
+#          Github: https://github.com/EvanNotFound/hexo-theme-redefine
+#          Blog: https://ohevan.com
+#          Friends: /friends
     # Links: 
     #   icon: fa-regular fa-link
     #   submenus:
@@ -187,7 +185,7 @@ navbar:
   # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
   search:
     # Whether to enable
-    enable: false
+    enable: true
     # Preload search data when the page loads
     preload: true
 # NAVIGATION BAR <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
